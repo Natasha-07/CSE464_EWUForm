@@ -1,0 +1,46 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-image: url("https://images.unsplash.com/photo-1511406239133-2c1130a2d754?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80");
+    background-repeat: no-repeat;
+    background-size: 157vw auto;
+    backdrop-filter: blur(5px);
+}
+.title{
+    font-family: 'Comfortaa', cursive;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.015em;
+    color: #ffffff;
+    padding: 50px 15px;
+
+}
+.con{
+    border: 1px solid;
+    padding: 15px;
+}
+input{
+    border-radius: 0 !important;
+    border: 1px solid black !important;
+}
+.text-light{
+    font-size: 0.9rem;
+    padding: 50px;
+}
+.bgimage{
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/620/81/253/pattern-design-dark-texture-wallpaper-preview.jpg");
+}
+select{
+    border-radius: 0 !important;
+    border: 1px solid black !important;
+}
+.form-control:focus {
+    box-shadow: none;
+}
+.formimage{
+    background-image: url("https://images.unsplash.com/photo-1604147706283-d7119b5b822c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80");
+
+}
